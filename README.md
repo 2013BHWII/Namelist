@@ -4,11 +4,11 @@ Github Link
 
 Benesch Peter            -             
 
-Pfeifer Markus           -
+<a href="https://github.com/MarkusPfeifer" target="_blank">Pfeifer Markus</a>
 
 Pfurtscheller Fabian     -
 
-<a href="https://github.com/" target="_blank">Pregenzer Thomas</a>
+<a href="https://github.com/PregOfficial" target="_blank">Pregenzer Thomas</a>
 
 <a href="https://github.com/EyeOfEpic" target="_blank">Raab Felix </a>
 
@@ -26,7 +26,9 @@ Winkler Marcel
 
 <a href="https://github.com/thomasantonio" target="_blank">Wopfner Thomas</a>
 
-Zauner Lukas
+<a href="https://github.com/ZaunerL" target="_blank">Zauner Lukas</a>
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 <a href="https://www.dropbox.com/sh/jtayjq3p69due7k/AACCphSQUxPO6IU41MaRDVdSa?dl=0" target="_blank">Dropboxlink</a>
 
