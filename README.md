@@ -1,7 +1,7 @@
 # Namelist
 A list of names of the Software Development group of Mr.Köllö with the according Github links.
 
-<a href="https://github.com/MarkusPfeifer" target="_blank">https://github.com/PeterBenesch</a>        
+<a href="https://github.com/MarkusPfeifer" target="_blank">Benesch Peter</a>        
 
 <a href="https://github.com/MarkusPfeifer" target="_blank">Pfeifer Markus</a>
 
