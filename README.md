@@ -1,11 +1,11 @@
 # Namelist
 A list of names of the Software Development group of Mr.Köllö with the according Github links.
 
-Benesch Peter            -             
+<a href="https://github.com/MarkusPfeifer" target="_blank">https://github.com/PeterBenesch</a>        
 
 <a href="https://github.com/MarkusPfeifer" target="_blank">Pfeifer Markus</a>
 
-Pfurtscheller Fabian     -
+<a href="https://github.com/ZaunerL" target="_blank">Pfurtscheller Fabian</a>(teilt sich mit Zauner)
 
 <a href="https://github.com/PregOfficial" target="_blank">Pregenzer Thomas</a>
 
@@ -21,7 +21,7 @@ Pfurtscheller Fabian     -
 
 <a href="https://github.com/lucaweber4" target="_blank">Weber Luca</a>
 
-Winkler Marcel
+<a href="https://github.com/winklermarcel" target="_blank">Winkler Marcel</a>
 
 <a href="https://github.com/thomasantonio" target="_blank">Wopfner Thomas</a>
 
