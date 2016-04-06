@@ -31,4 +31,4 @@ A list of names of the Software Development group of Mr.Köllö with the accordi
 
 <a href="https://www.dropbox.com/sh/jtayjq3p69due7k/AACCphSQUxPO6IU41MaRDVdSa?dl=0" target="_blank">Dropboxlink</a>
 
-<a href="http://img.pr0gramm.com/2014/12/11/3ea91b2b7108b322.png" target="_blank">Max Mustermann</a>
+<a href="http://goo.gl/bzaEnm" target="_blank">Max Mustermann</a>
